@@ -5,4 +5,6 @@ edition = "2021"
 
 [dependencies]
 assert_cmd = "2.0.13"
+chrono = "0.4.34"
+regex = "1.10.3"
 
